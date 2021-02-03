@@ -1,7 +1,7 @@
 package app
 
 import (
-	"banking/Service"
+	"github.com/wolfang95/gotest/Service"
 	"encoding/json"
 	"encoding/xml"
 	"net/http"

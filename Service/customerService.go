@@ -1,6 +1,6 @@
 package Service
 
-import "banking/domain"
+import "github.com/wolfang95/gotest/domain"
 type CustomerService interface {
 	GetAllCustomer()([]domain.Customer,error)
 }

@@ -1,8 +1,8 @@
 package app
 
 import (
-	"banking/Service"
-	"banking/domain"
+	"github.com/wolfang95/gotest/tree/main/Service"
+	"github.com/wolfang95/gotest/tree/main/domain"
 	"fmt"
 	"log"
 	"net/http"
